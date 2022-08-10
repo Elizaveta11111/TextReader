@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1607073744 source:c:\users\comp.000\desktop\h\reader\menu.rc
+	"menu.h"
+
+1607073792 c:\users\comp.000\desktop\h\reader\menu.h
+
+1607075025 source:c:\users\comp.000\desktop\h\reader\dialog.c
+	"dialog.h"
+
+1607074484 c:\users\comp.000\desktop\h\reader\dialog.h
+	<windows.h>
+	<stdio.h>
+
+1607074559 c:\users\comp.000\desktop\h\reader\myinfo.h
+
+1607074355 source:c:\users\comp.000\desktop\h\reader\lines.c
+	"lines.h"
+	"myinfo.h"
+
+1607074530 c:\users\comp.000\desktop\h\reader\lines.h
+	<windows.h>
+	"myinfo.h"
+
+1607074350 source:c:\users\comp.000\desktop\h\reader\fileinfo.c
+	"fileinfo.h"
+	"myinfo.h"
+
+1607074581 c:\users\comp.000\desktop\h\reader\fileinfo.h
+	<windows.h>
+	<stdio.h>
+	"myinfo.h"
+
+1607074559 source:c:\users\comp.000\desktop\h\reader\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<commdlg.h>
+	<math.h>
+	"menu.h"
+	"myinfo.h"
+	"dialog.h"
+	"fileinfo.h"
+	"lines.h"
+
+1607075025 source:c:\users\comp.000\desktop\reader\dialog.c
+	"dialog.h"
+
+1607074484 c:\users\comp.000\desktop\reader\dialog.h
+	<windows.h>
+	<stdio.h>
+
+1607077479 source:c:\users\comp.000\desktop\reader\fileinfo.c
+	"fileinfo.h"
+	"lines.h"
+	"myinfo.h"
+
+1607074581 c:\users\comp.000\desktop\reader\fileinfo.h
+	<windows.h>
+	<stdio.h>
+	"myinfo.h"
+
+1607078758 c:\users\comp.000\desktop\reader\myinfo.h
+
+1607074355 source:c:\users\comp.000\desktop\reader\lines.c
+	"lines.h"
+	"myinfo.h"
+
+1607074530 c:\users\comp.000\desktop\reader\lines.h
+	<windows.h>
+	"myinfo.h"
+
+1607078840 source:c:\users\comp.000\desktop\reader\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<commdlg.h>
+	<math.h>
+	"menu.h"
+	"myinfo.h"
+	"dialog.h"
+	"fileinfo.h"
+	"lines.h"
+
+1607073792 c:\users\comp.000\desktop\reader\menu.h
+
+1607073744 source:c:\users\comp.000\desktop\reader\menu.rc
+	"menu.h"
+
+1607075025 source:c:\users\comp.000\desktop\textreader\reader\dialog.c
+	"dialog.h"
+
+1607074484 c:\users\comp.000\desktop\textreader\reader\dialog.h
+	<windows.h>
+	<stdio.h>
+
+1607073744 source:c:\users\comp.000\desktop\textreader\reader\menu.rc
+	"menu.h"
+
+1607073792 c:\users\comp.000\desktop\textreader\reader\menu.h
+
+1607079459 source:c:\users\comp.000\desktop\textreader\reader\fileinfo.c
+	"fileinfo.h"
+	"lines.h"
+
+1607074581 c:\users\comp.000\desktop\textreader\reader\fileinfo.h
+	<windows.h>
+	<stdio.h>
+	"myinfo.h"
+
+1607078758 c:\users\comp.000\desktop\textreader\reader\myinfo.h
+
+1607074530 c:\users\comp.000\desktop\textreader\reader\lines.h
+	<windows.h>
+	"myinfo.h"
+
+1607079487 source:c:\users\comp.000\desktop\textreader\reader\lines.c
+	"lines.h"
+
+1607084476 source:c:\users\comp.000\desktop\textreader\reader\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<commdlg.h>
+	<math.h>
+	"menu.h"
+	"myinfo.h"
+	"dialog.h"
+	"fileinfo.h"
+	"lines.h"
+	"..\MyLib\mylib.h"
+	<strsafe.h>
+
+1607081235 c:\users\comp.000\desktop\textreader\mylib\mylib.h
+	<windows.h>
+	<stdio.h>
+
+1607089117 source:c:\users\comp.000\desktop\ll\textreader\reader\dialog.c
+	"dialog.h"
+
+1607089220 c:\users\comp.000\desktop\ll\textreader\reader\dialog.h
+	<windows.h>
+	<stdio.h>
+
+1607094240 source:c:\users\comp.000\desktop\ll\textreader\reader\fileinfo.c
+	"fileinfo.h"
+	"lines.h"
+
+1607090720 c:\users\comp.000\desktop\ll\textreader\reader\fileinfo.h
+	<windows.h>
+	<stdio.h>
+	"myinfo.h"
+
+1607099631 c:\users\comp.000\desktop\ll\textreader\reader\myinfo.h
+
+1607095677 c:\users\comp.000\desktop\ll\textreader\reader\lines.h
+	<windows.h>
+	"myinfo.h"
+
+1607079487 source:c:\users\comp.000\desktop\ll\textreader\reader\lines.c
+	"lines.h"
+
+1607100593 source:c:\users\comp.000\desktop\ll\textreader\reader\main.c
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<commdlg.h>
+	<math.h>
+	"menu.h"
+	"myinfo.h"
+	"dialog.h"
+	"fileinfo.h"
+	"lines.h"
+	"..\MyLib\mylib.h"
+
+1607073792 c:\users\comp.000\desktop\ll\textreader\reader\menu.h
+
+1607096312 c:\users\comp.000\desktop\ll\textreader\mylib\mylib.h
+	<windows.h>
+	<stdio.h>
+
+1607073744 source:c:\users\comp.000\desktop\ll\textreader\reader\menu.rc
+	"menu.h"
+

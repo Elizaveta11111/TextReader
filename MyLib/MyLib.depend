@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607081211 source:c:\users\comp.000\desktop\textreader\mylib\mylib.c
+	"mylib.h"
+
+1607081235 c:\users\comp.000\desktop\textreader\mylib\mylib.h
+	<windows.h>
+	<stdio.h>
+
